@@ -1,7 +1,10 @@
 #########################################################
-# GSERM - St. Gallen (2019)
+# GSERM - St. Gallen (2021)
 #
-# Introduction to panel / TSCS data.
+# Analyzing Panel Data
+# Prof. Christopher Zorn
+#
+# Day One: Introduction to panel / TSCS data.
 #
 ########################################################
 # Load packages (install as needed, using
